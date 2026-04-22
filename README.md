@@ -30,20 +30,25 @@ Welcome to my Hyprland Rice configuration! This setup is designed to provide a c
     yay -S python-pywal16
     ```
 
-3. Copy the configuration files to their respective locations:
+3. Optional cool apps:
+    ```bash
+    sudo pacman -S fastfetch asciiquarium cmatrix
+    ```
+
+4. Copy the configuration files to their respective locations:
     ```bash
     cp -r .config/* ~/.config/
     ```
 
 
-4. Update the Waybar and Wofi configuration:
+5. Update the Waybar and Wofi configuration (important):
     If your Waybar and Wofi configuration references a CSS file like:
     ```
     @import "/home/mark/.cache/wal/colors-waybar.css";
     ``` 
-    make sure to replace "mkhmtcore" with your actual username.
+    make sure to replace "mark" with your actual username.
 
-5. Restart your session and enjoy your new setup!
+6. Restart your session and enjoy your new setup!
 
 ## Customization
 
