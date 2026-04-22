@@ -60,7 +60,7 @@ Enjoy your Hyprland rice!
 
 All important configs will be in ~/.config/hypr/config
 
-/home/mark/.config/fastfetch/rename-to-just-ascii-to-use can be renamed to "ascii" and will show up when you type in the terminal:
-    ```bash
+`/home/mark/.config/fastfetch/rename-to-just-ascii-to-use` can be renamed to `ascii` and will show up when you type in the terminal:
+    ```
     fastfetch
     ```
