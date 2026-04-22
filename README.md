@@ -32,7 +32,7 @@ Welcome to my Hyprland Rice configuration! This setup is designed to provide a c
 
 3. Optional cool apps:
     ```bash
-    sudo pacman -S fastfetch asciiquarium cmatrix
+    sudo pacman -S fastfetch asciiquarium cmatrix btop
     ```
 
 4. Copy the configuration files to their respective locations:
