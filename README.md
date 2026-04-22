@@ -55,3 +55,12 @@ Welcome to my Hyprland Rice configuration! This setup is designed to provide a c
 Feel free to tweak the configuration files in the `~/.config` directory to suit your preferences.
 
 Enjoy your Hyprland rice!
+
+## Extra Info
+
+All important configs will be in ~/.config/hypr/config
+
+/home/mark/.config/fastfetch/rename-to-just-ascii-to-use can be renamed to "ascii" and will show up when you type in the terminal:
+    ```bash
+    fastfetch
+    ```
