@@ -68,5 +68,5 @@ mainmod (usually windows key) + T to open terminal. Then
 ```bash
 cat ~/.config/hypr/configs/keybinds.conf
 ```
-to veiw other keybinds
+to veiw all keybinds in hyprland
 
