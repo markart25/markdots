@@ -14,7 +14,7 @@ Welcome to my Hyprland Rice configuration! This setup is designed to provide a c
 
 ## Screenshots
 
-![Desktop Screenshot](image.png)
+![Desktop Screenshot](https://github.com/markart25/markdots/raw/main/image.png)
 
 ## Installation
 
