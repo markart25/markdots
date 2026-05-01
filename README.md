@@ -46,9 +46,10 @@ Welcome to my Hyprland Rice configuration! This setup is designed to provide a c
     ```
     @import "/home/mark/.cache/wal/colors-waybar.css";
     ``` 
-    make sure to replace "mark" with your actual username.
+    make sure to replace "mark" with your actual username
+   if you dont do this wofi and waybar may not look correctly.
 
-6. Restart your session and enjoy your new setup!
+7. Restart your session and enjoy your new setup!
    
 Enjoy your Hyprland rice!
 
