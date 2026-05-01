@@ -50,13 +50,13 @@ Welcome to my Hyprland Rice configuration! This setup is designed to provide a c
 
 6. Restart your session and enjoy your new setup!
 
+# Extra Info
+
 ## Customization
 
 Feel free to tweak the configuration files in the `~/.config` directory to suit your preferences.
 
 Enjoy your Hyprland rice!
-
-# Extra Info
 
 ## configs
 All important hyprland configs will be in ~/.config/hypr/config
