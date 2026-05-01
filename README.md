@@ -57,13 +57,15 @@ Feel free to tweak the configuration files in the `~/.config` directory to suit 
 Enjoy your Hyprland rice!
 
 ## Extra Info
-
+## configs
 All important configs will be in ~/.config/hypr/config
 
+## fastfetch ascii
 the file `/home/mark/.config/fastfetch/rename-to-just-ascii-to-use` can be renamed to `ascii` and will show up when you type in the terminal:
 ```bash
 fastfetch
 ```
+# to learn keybinds
 mainmod (usually windows key) + T to open terminal. Then 
 ```bash
 cat ~/.config/hypr/configs/keybinds.conf
