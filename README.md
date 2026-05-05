@@ -10,7 +10,7 @@ Welcome to my Hyprland Rice configuration! This setup is designed to provide a c
 - **Launcher**: [Wofi](https://hg.sr.ht/~scoopta/wofi) - A Wayland-native application launcher.
 - **Bar**: [Waybar](https://github.com/Alexays/Waybar) - A highly customizable status bar.
 - **Notifications**: [Mako](https://github.com/emersion/mako) - A lightweight Wayland notification daemon.
-- **Color Scheme Generator**: [Pywal16](https://github.com/adi1090x/pywal16) - A tool to generate and apply color schemes based on your wallpaper.
+- **Color Scheme Generator**: Pywal16 - A tool to generate and apply color schemes based on your wallpaper.
 
 ## Screenshots
 
