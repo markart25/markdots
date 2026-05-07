@@ -1,3 +1,6 @@
+[!WARNING]
+these dotfiles are personalised to my liking and may need to be tweaked to adjust to yours
+
 # Hyprland Rice
 
 Welcome to my Hyprland Rice configuration! This setup is designed to provide a clean, efficient, and visually appealing desktop environment.
