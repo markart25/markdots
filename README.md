@@ -78,3 +78,8 @@ cat ~/.config/hypr/configs/keybinds.conf
 ```
 to veiw all keybinds in hyprland
 
+## errors
+if there is an error with colours on firt start run
+```bash
+wal -i ~/.config/wallpapers
+```
