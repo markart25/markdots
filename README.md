@@ -49,7 +49,7 @@ Welcome to my Hyprland Rice configuration! This setup is designed to provide a c
    ```zsh
    # open fastfetch on terminal start 
    fastfetch
-   ```license
+   ```
 
    | Shell | Config File |
    |-------|-------------|
