@@ -40,7 +40,7 @@ Welcome to my Hyprland Rice configuration! This setup is designed to provide a c
     sudo pacman -S fastfetch asciiquarium cmatrix btop
     ```
 
-4. Include in ~/.zshrc (if u use zsh) config to include fastfetch on open terinal (optional)
+4. Include in ~/.zshrc (if u use zsh) config to include fastfetch on open terinal (OPTIONAL)
    ```bash
    echo -e '\n#open fastfetch on terminal start\nfastfetch' >> ~/.zshrc
    ```
@@ -49,8 +49,8 @@ Welcome to my Hyprland Rice configuration! This setup is designed to provide a c
    echo $SHELL
    echo $0
     ```
-   so the command above $SHELL is the shell in TTY and $0 is the current open shell. I recomend running this after you are in hyprland so you can actually check which shell you are using in hyprland. for me $SHELL is bash but $0 in  hyprland is zsh but $0 in TTY is also bash.
-   
+   so the command above $SHELL is the shell in TTY and $0 is the current open shell. I recomend running this after you are in hyprland so you can actually check which shell you are using in hyprland. for me $SHELL is bash but $0 in  hyprland is zsh but $0 in TTY is also bash. For me i have put fastfetch in both the bash and zsh config so when i login i can see fastfetch and when i open terminal in hyprland i also see it
+  
    if u dont use zsh to run fastfetch every time a new terminal opens, add these two lines (1st is optional) to your shell config:
    ```zsh
    # open fastfetch on terminal start 
