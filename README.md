@@ -40,14 +40,15 @@ Welcome to my Hyprland Rice configuration! This setup is designed to provide a c
     sudo pacman -S fastfetch asciiquarium cmatrix btop
     ```
 
-4. Include in ~/.zshrc config to include fastfetch on open terinal (optional)
+4. Include in ~/.zshrc (if u use zsh) config to include fastfetch on open terinal (optional)
    ```bash
    echo -e '\n# fastfetch\nfastfetch' >> ~/.zshrc
    ```
-   To run fastfetch every time a new terminal opens, add these two lines to your shell config:
+   if you dont use zsh
+   to run fastfetch every time a new terminal opens, add these two lines (1st is optional to your shell config:
 
    ```zsh
-   # fastfetch
+   # open fastfetch on terminal start 
    fastfetch
    ```
 
