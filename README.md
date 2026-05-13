@@ -42,11 +42,10 @@ Welcome to my Hyprland Rice configuration! This setup is designed to provide a c
 
 4. Include in ~/.zshrc (if u use zsh) config to include fastfetch on open terinal (optional)
    ```bash
-   echo -e '\n# fastfetch\nfastfetch' >> ~/.zshrc
+   echo -e '\n#open fastfetch on terminal start\nfastfetch' >> ~/.zshrc
    ```
    if you dont use zsh
    to run fastfetch every time a new terminal opens, add these two lines (1st is optional to your shell config:
-
    ```zsh
    # open fastfetch on terminal start 
    fastfetch
