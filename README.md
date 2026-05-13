@@ -95,7 +95,7 @@ the file `/home/mark/.config/fastfetch/rename-to-just-ascii-to-use` can be renam
 fastfetch
 ```
 ## to learn keybinds
-mainmod (usually windows key) + T to open terminal. Then 
+mainmod (usually windows key) + Q to open terminal. Then 
 ```bash
 cat ~/.config/hypr/configs/keybinds.conf
 ```
