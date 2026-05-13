@@ -40,6 +40,11 @@ Welcome to my Hyprland Rice configuration! This setup is designed to provide a c
     sudo pacman -S fastfetch asciiquarium cmatrix btop
     ```
 
+4. Include in ~/.zshrc config to include fastfetch on open terinal (optional)
+   ```bash
+   echo -e '\n# fastfetch\nfastfetch' >> ~/.zshrc
+   ```
+
 4. Copy the configuration files to their respective locations:
     ```bash
     cp -r .config/* ~/.config/
