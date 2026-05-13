@@ -44,6 +44,18 @@ Welcome to my Hyprland Rice configuration! This setup is designed to provide a c
    ```bash
    echo -e '\n# fastfetch\nfastfetch' >> ~/.zshrc
    ```
+   To run fastfetch every time a new terminal opens, add these two lines to your shell config:
+
+   ```zsh
+   # fastfetch
+   fastfetch
+   ```
+
+   | Shell | Config File |
+   |-------|-------------|
+   | zsh | `~/.zshrc` |
+   | bash | `~/.bashrc` |
+   | fish | `~/.config/fish/config.fish` |
 
 4. Copy the configuration files to their respective locations:
     ```bash
