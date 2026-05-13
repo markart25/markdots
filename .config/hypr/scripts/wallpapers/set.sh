@@ -3,7 +3,7 @@ set -eu
 
 WALL=$1
 
-swww img --transition-type center --transition-step 90 "$WALL"
+awww img --transition-type center --transition-step 90 "$WALL"
 echo "Wallpaper set successfully"
 
 
