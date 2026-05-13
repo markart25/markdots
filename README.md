@@ -49,7 +49,8 @@ Welcome to my Hyprland Rice configuration! This setup is designed to provide a c
    echo $SHELL
    echo $0
     ```
-   so the command above $SHELL is the shell in TTY and $0 is the current open shell. I recomend running this after you are in hyprland so you can actually check which shell you are using in hyprland. for me $SHELL is bash but $0 in  hyprland is zsh but $0 in TTY is also bash 
+   so the command above $SHELL is the shell in TTY and $0 is the current open shell. I recomend running this after you are in hyprland so you can actually check which shell you are using in hyprland. for me $SHELL is bash but $0 in  hyprland is zsh but $0 in TTY is also bash.
+   
    if u dont use zsh to run fastfetch every time a new terminal opens, add these two lines (1st is optional) to your shell config:
    ```zsh
    # open fastfetch on terminal start 
@@ -62,13 +63,13 @@ Welcome to my Hyprland Rice configuration! This setup is designed to provide a c
    | bash | `~/.bashrc` |
    | fish | `~/.config/fish/config.fish` |
 
-5. Copy the configuration files to their respective locations:
+6. Copy the configuration files to their respective locations:
     ```bash
     cp -r .config/* ~/.config/
     ```
 
 
-6. Update the Waybar and Wofi configuration (important):
+7. Update the Waybar and Wofi configuration (important):
     If your Waybar and Wofi configuration references a CSS file like:
     ```
     @import "/home/mark/.cache/wal/colors-waybar.css";
@@ -76,7 +77,7 @@ Welcome to my Hyprland Rice configuration! This setup is designed to provide a c
     make sure to replace "mark" with your actual username
    if you dont do this wofi and waybar may not look correctly.
 
-7. Restart your session and enjoy your new setup!
+8. Restart your session and enjoy your new setup!
    
 Enjoy your Hyprland rice!
 
