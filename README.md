@@ -63,9 +63,10 @@ Welcome to my Hyprland Rice configuration! This setup is designed to provide a c
    | bash | `~/.bashrc` |
    | fish | `~/.config/fish/config.fish` |
 
-6. Copy the configuration files to their respective locations:
+6. Copy the configuration files to their respective locations and create pywall colours:
     ```bash
     cp -r .config/* ~/.config/
+    wal -i ~/.config/wallpapers
     ```
 
 
@@ -102,7 +103,7 @@ cat ~/.config/hypr/configs/keybinds.conf
 to veiw all keybinds in hyprland
 
 ## errors
-if there is an error with colours on firt start run
+if there is an error with colours on firt start run (although you should have already ran this)
 ```bash
 wal -i ~/.config/wallpapers
 ```
