@@ -83,3 +83,5 @@ if there is an error with colours on firt start run
 ```bash
 wal -i ~/.config/wallpapers
 ```
+
+if there are any other errors you can report them on my discord found on my profile
