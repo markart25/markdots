@@ -70,7 +70,7 @@ Welcome to my Hyprland Rice configuration! This setup is designed to provide a c
 
 
 7. Update the Waybar and Wofi configuration (important):
-    If your Waybar and Wofi configuration references a CSS file like:
+    If your Waybar and Wofi configuration references a CSS file like: (found in ~/.config/waybar/css/colors.css and ~/.config/wofi/style.css both in the first line)
     ```
     @import "/home/mark/.cache/wal/colors-waybar.css";
     ``` 
