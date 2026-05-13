@@ -45,11 +45,11 @@ Welcome to my Hyprland Rice configuration! This setup is designed to provide a c
    echo -e '\n#open fastfetch on terminal start\nfastfetch' >> ~/.zshrc
    ```
    if you dont use zsh
-   to run fastfetch every time a new terminal opens, add these two lines (1st is optional to your shell config:
+   to run fastfetch every time a new terminal opens, add these two lines (1st is optional) to your shell config:
    ```zsh
    # open fastfetch on terminal start 
    fastfetch
-   ```
+   ```license
 
    | Shell | Config File |
    |-------|-------------|
