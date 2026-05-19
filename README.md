@@ -1,6 +1,7 @@
 >[!WARNING]
 >these dotfiles are personalised to my liking and may need to be tweaked to adjust to yours
 >intallation may also cause some errors that need to be fixed. (dont take that long)
+>Recommended to backup YOUR dotfiles before installing
 
 # Hyprland Rice
 
