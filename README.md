@@ -6,6 +6,7 @@
 # Hyprland Rice
 
 Welcome to my Hyprland Rice configuration! This setup is designed to provide a clean, efficient, and visually appealing desktop environment.
+I use these configs daily so if somthing breaks due to an update (like the weird titling one in march/may 2026 and the awww rename) i will update everything on my laptop AND here
 
 ## Dependencies
 
@@ -52,7 +53,7 @@ Welcome to my Hyprland Rice configuration! This setup is designed to provide a c
     ```
    so the command above $SHELL is the shell in TTY and $0 is the current open shell. I recomend running this after you are in hyprland so you can actually check which shell you are using in hyprland. for me $SHELL is bash but $0 in  hyprland is zsh but $0 in TTY is also bash. For me i have put fastfetch in both the bash and zsh config so when i login i can see fastfetch and when i open terminal in hyprland i also see it
   
-   if u dont use zsh to run fastfetch every time a new terminal opens, add these two lines (1st is optional) to your shell config:
+   to run fastfetch every time a new terminal opens, add these two lines (1st is optional) to your shell config:
    ```zsh
    # open fastfetch on terminal start 
    fastfetch
