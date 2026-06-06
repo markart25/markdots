@@ -136,7 +136,7 @@ Modifier key (`$mainMod`) is **SUPER** (Windows key).
 
 | Keybind | Action |
 |---|---|
-| `SUPER + SHIFT + S` | Screenshot region → `~/pictures/screenshots` |
+| `SUPER + SHIFT + S` | Screenshot region → `~/pictures/screenshots` (also IN `CTRL + V` |
 
 
 ## Customization
