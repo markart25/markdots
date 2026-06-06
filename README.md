@@ -85,6 +85,59 @@ I use these configs daily so if somthing breaks due to an update (like the weird
 Enjoy your Hyprland rice!
 
 # Extra Info
+## Keybinds
+
+Modifier key (`$mainMod`) is **SUPER** (Windows key).
+
+### Apps & Scripts
+
+| Keybind | Action |
+|---|---|
+| `SUPER + Q` | Open terminal (kitty) |
+| `SUPER + A` | App launcher (wofi) |
+| `SUPER + E` | File manager (dolphin) |
+| `SUPER + V` | Clipboard history (cliphist) |
+| `SUPER + L` | Lock screen (hyprlock) |
+| `SUPER + R` | Set random wallpaper |
+| `SUPER + W` | Wallpaper picker |
+| Copilot key | Open Claude in Firefox (reclaimed from Microsoft) |
+
+### Window Management
+
+| Keybind | Action |
+|---|---|
+| `SUPER + C` | Close active window |
+| `SUPER + F` | Toggle floating |
+| `SUPER + M` | Exit Hyprland |
+| `SUPER + ← / → / ↑ / ↓` | Move focus |
+| `SUPER + LMB drag` | Move window |
+| `SUPER + RMB drag` | Resize window |
+
+### Workspaces
+
+| Keybind | Action |
+|---|---|
+| `SUPER + [0-9]` | Switch to workspace |
+| `SUPER + SHIFT + [0-9]` | Move window to workspace |
+| `SUPER + Tab` | Previous workspace |
+| `SUPER + ALT + ← / →` | Cycle workspaces |
+| `SUPER + SHIFT + ← / →` | Move window to adjacent workspace |
+| `SUPER + scroll` | Scroll through workspaces |
+
+### Media & Brightness
+
+| Keybind | Action |
+|---|---|
+| `Volume Up/Down/Mute` | Audio control (wpctl) |
+| `Mic Mute` | Toggle mic |
+| `Brightness Up/Down` | LCD brightness (brightnessctl) |
+
+### Screenshots
+
+| Keybind | Action |
+|---|---|
+| `SUPER + SHIFT + S` | Screenshot region → `~/pictures/screenshots` |
+
 
 ## Customization
 
