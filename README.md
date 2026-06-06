@@ -100,7 +100,7 @@ Modifier key (`$mainMod`) is **SUPER** (Windows key).
 | `SUPER + L` | Lock screen (hyprlock) |
 | `SUPER + R` | Set random wallpaper |
 | `SUPER + W` | Wallpaper picker |
-| Copilot key | Open Claude in Firefox (reclaimed from Microsoft) |
+| Copilot key | Open Claude in Firefox (reclaimed from Microslop) |
 
 ### Window Management
 
@@ -136,7 +136,7 @@ Modifier key (`$mainMod`) is **SUPER** (Windows key).
 
 | Keybind | Action |
 |---|---|
-| `SUPER + SHIFT + S` | Screenshot region → `~/pictures/screenshots` (also IN `CTRL + V` |
+| `SUPER + SHIFT + S` | Screenshot region → `~/pictures/screenshots` (also in `CTRL + V`) |
 
 
 ## Customization
