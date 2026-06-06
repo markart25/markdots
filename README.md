@@ -33,7 +33,7 @@ I use these configs daily so if somthing breaks due to an update (like the weird
 
 2. Install the required dependencies:
     ```bash
-    sudo pacman -S hyprland kitty wofi waybar mako zsh ttf-jetbrains-mono ttf-jetbrains-mono-nerd awww hypridle
+    sudo pacman -S hyprland kitty wofi waybar mako zsh ttf-jetbrains-mono ttf-jetbrains-mono-nerd awww hypridle cliphist
     yay -S python-pywal16
     ```
 
