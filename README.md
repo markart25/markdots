@@ -67,9 +67,10 @@ I use these configs daily so if somthing breaks due to an update (like the weird
    | bash | `~/.bashrc` |
    | fish | `~/.config/fish/config.fish` |
 
-6. Copy the configuration files to their respective locations and create pywall colours:
+6. Copy the configuration files to their respective locations, delete .lua (you might wanna backup this file if you have changed it) and create pywall colours:
     ```bash
     cp -r .config/* ~/.config/
+    rm ~/.config/hypr/hyprland.lua
     wal -i ~/.config/wallpapers
     ```
 
