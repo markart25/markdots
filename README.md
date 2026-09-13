@@ -78,7 +78,7 @@ I use these configs daily so if somthing breaks due to an update (like the weird
    ```bash
    nano ~/.config/hypr/configs/monitors.conf
    ```
-change the l.5 at the end of line 5 to a different number size. recommended to lanch waybar and tweak number untill it fills up the space from one side to the other.
+change the 1.5 at the end of line 5 to a different number size. recommended to lanch waybar and tweak number untill it fills up the space from one side to the other.
 
 
 7. Update the Waybar and Wofi configuration (important):
