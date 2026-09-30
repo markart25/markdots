@@ -3,8 +3,6 @@
 >intallation may also cause some errors that need to be fixed. (dont take that long)
 >Recommended to backup YOUR dotfiles before installing
 
-Big credit to mkhmtolzhas for the base of these dotfiles
-
 # Hyprland Rice
 
 Welcome to my Hyprland Rice configuration! This setup is designed to provide a clean, efficient, and visually appealing desktop environment.
@@ -172,3 +170,6 @@ wal -i ~/.config/wallpapers
 ```
 
 if there are any other errors you can report them on my discord found on my profile
+
+## CREDIT
+All credits for the dotfiles goes to mkhmtolzhas (https://github.com/mkhmtolzhas/mkhmtdots) for making the base dotfiles.
