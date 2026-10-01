@@ -114,6 +114,7 @@ Modifier key (`$mainMod`) is **SUPER** (Windows key).
 |---|---|
 | `SUPER + C` | Close active window |
 | `SUPER + F` | Toggle floating |
+| `SUPER + G` | Toggle full screen |
 | `SUPER + M` | Exit Hyprland |
 | `SUPER + ← / → / ↑ / ↓` | Move focus |
 | `SUPER + LMB drag` | Move window |
