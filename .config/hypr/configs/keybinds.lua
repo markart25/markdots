@@ -24,6 +24,15 @@ hl.bind(mainMod .. " + W", hl.dsp.exec_cmd(home .. "/.config/hypr/scripts/wallpa
 hl.bind(mainMod .. " + C", hl.dsp.window.close())
 hl.bind(mainMod .. " + M", hl.dsp.exit())
 hl.bind(mainMod .. " + F", hl.dsp.window.float({ action = "toggle" }))
+-- Mainmod + G toggles fullscreen
+hl.bind("SUPER + G", hl.dsp.window.fullscreen())
+
+-- Fullscreen windows are always opaque
+hl.window_rule({
+    name = "fullscreen-opaque",
+    match = { fullscreen = true },
+    opaque = true,
+})
 
 -- Window focus
 hl.bind(mainMod .. " + left",  hl.dsp.focus({ direction = "left"  }))
