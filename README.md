@@ -23,7 +23,7 @@ I use these configs daily so if somthing breaks due to an update (like the weird
 ![Desktop Screenshot](https://github.com/markart25/markdots/raw/main/image.png)
 ![Desktop Screenshot](https://github.com/markart25/markdots/raw/main/2026-05-02-080726_hyprshot.png)
 
-## Installation
+## Installation (complete in tty until told)
 
 1. Clone this repository:
     ```bash
