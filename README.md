@@ -79,7 +79,7 @@ I use these configs daily so if somthing breaks due to an update (like the weird
     make sure to replace "mark" with your actual username
    if you dont do this wofi and waybar may not look correctly.
 
-8. Restart your session then launch hyprlan
+8. Restart your session then launch hyprland
    ``` bash
    reboot
    ```
