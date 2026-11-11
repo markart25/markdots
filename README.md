@@ -71,13 +71,6 @@ I use these configs daily so if somthing breaks due to an update (like the weird
     wal -i ~/.config/wallpapers
     ```
 
-7. Change monitor rule to match your monitor/screen size
-   ```bash
-   nano ~/.config/hypr/configs/monitors.conf
-   ```
-change the 1.5 at the end of line 5 to a different number size. recommended to lanch waybar and tweak number untill it fills up the space from one side to the other.
-
-
 7. Update the Waybar and Wofi configuration (important):
     If your Waybar and Wofi configuration references a CSS file like: (found in ~/.config/waybar/css/colors.css and ~/.config/wofi/style.css both in the first line)
     ```
@@ -86,7 +79,20 @@ change the 1.5 at the end of line 5 to a different number size. recommended to l
     make sure to replace "mark" with your actual username
    if you dont do this wofi and waybar may not look correctly.
 
-8. Restart your session and enjoy your new setup!
+8. Restart your session then launch hyprlan
+   ``` bash
+   reboot
+   ```
+   ``` bash
+   start-hyprland
+   ```
+   
+9. Change monitor rule to match your monitor/screen size
+   ```bash
+   nano ~/.config/hypr/configs/monitors.conf
+   ```
+change the 1.5 at the end of line 5 to a different number size. recommended to lanch waybar and tweak number untill it fills up the space from one side to the other.
+   
    
 Enjoy your Hyprland rice!
 
